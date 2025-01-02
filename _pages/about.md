@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "童飞"
+title: "刘殿栋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,14 @@ redirect_from:
 
 <a href="https://fei-tong.github.io/News/"><font size="5"><font color="red"><b>最新消息！</b></font></font></a>
 
-## 教育背景
+## 教育/工作履历
 <font size="3">
 
-<b>博士后</b>，浙江大学，控制科学与工程，导师：<a href="https://person.zju.edu.cn/jmchen" target="_blank"><b>陈积明教授</b></a>、<a href="https://mypage.zju.edu.cn/shibohe" target="_blank"><b>贺诗波教授</b></a><br>
-<b>Postdoctoral.</b> at Control Science and Engineering, Zhejiang University<br>
-<b>博士 </b>，加拿大维多利亚大学，计算机科学，导师：<a href="https://webhome.cs.uvic.ca/~pan/" target="_blank"><b>潘建平教授</b></a>、<a href="https://www.ece.uvic.ca/~cai/" target="_blank"><b>蔡霖教授</b></a><br>
-<b>Ph.D.</b> at Computer Science, University of Victoria, Canada
+<b>博士在读</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授，副院长</b></a>><br>
+<b>Ph.D.</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
+<b>科研助理</b>，南京理工大学，经济管理学院，导师：<a href="[https://dianzhi.www.sust.edu.cn/info/4667/37842.htm](https://teacher.njust.edu.cn/jjgl/zp/list.htm)" target="_blank"><b>朱鹏教授，系书记</b></a>><br>
+<b>硕士</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授，副院长</b></a>><br>
+<b>M.S.</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
 </font>
 
 ## 研究领域
