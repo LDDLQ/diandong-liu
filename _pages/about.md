@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://fei-tong.github.io/News/"><font size="5"><font color="red"><b>最新消息！</b></font></font></a>
+<a href="https://lddlq.github.io/diandong-liu//News/"><font size="5"><font color="red"><b>最新消息！</b></font></font></a>
 
 ## 教育/工作履历
 <font size="3">
