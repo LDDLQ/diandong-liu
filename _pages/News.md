@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Latest News"
+title: "最新消息"
 permalink: /News/
 author_profile: true
 ---
