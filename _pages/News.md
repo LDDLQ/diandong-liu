@@ -5,7 +5,7 @@ permalink: /News/
 author_profile: true
 ---
 
-2024-12-31 团队成员刘殿栋，韩咏颐，任意与南京理工大学经济管理学院合作工作智能体AuditBlockchainSmartContracts正式发布<br>
+2024-12-31 团队成员刘殿栋，任意，韩咏颐与南京理工大学经济管理学院合作工作用于审计区块链智能合约的专属智能体正式发布<br>
 2024-12-11 团队成员刘殿栋，韩咏颐，任意与北京理工大学设计与艺术学院合作工作[CeramicAesGPT](http://10.31.7.86/?p=25)正式发布<br>
 2024-11-16 团队成员任意在Remote Sensing发表论文[EDWNet: A Novel Encoder–Decoder Architecture Network for Water Body Extraction from Optical Images](https://www.mdpi.com/2072-4292/16/22/4275)<br>
 2024-12-05 孙连山教授赴西安科大讯飞股份有限公司丝路总部参观交流<br>
