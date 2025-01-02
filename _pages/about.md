@@ -13,29 +13,22 @@ redirect_from:
 ## 教育/工作履历
 <font size="3">
 
-<b>博士在读</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授，副院长</b></a>><br>
+<b>博士在读</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授</b></a>><br>
 <b>Ph.D.</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
-<b>科研助理</b>，南京理工大学，经济管理学院，导师：<a href="[https://dianzhi.www.sust.edu.cn/info/4667/37842.htm](https://teacher.njust.edu.cn/jjgl/zp/list.htm)" target="_blank"><b>朱鹏教授，系书记</b></a>><br>
-<b>硕士</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授，副院长</b></a>><br>
+<b>科研助理</b>，南京理工大学，经济管理学院，导师：<a href="https://teacher.njust.edu.cn/jjgl/zp/list.htm" target="_blank"><b>朱鹏教授</b></a>><br>
+<b>Research Assistant</b> at School of Economics and Management, Nanjing University of Science and Technology<br>
+<b>硕士</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授</b></a>><br>
 <b>M.S.</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
 </font>
 
 ## 研究领域
 <font size="3">
-<b>1.  泛在网络智能与安全</b> （招1名2026年入学的博士生）<br>
-<b>2.  芯片架构安全理论与技术</b>（招1名2026年入学的博士生）<br>
-<b>3.  系统安全</b><br>
-<font color="red">【招收优秀博士、硕士研究生、优秀本科实习生】:</font><br>
-<b>为人踏实努力，上进心强，有强烈的自我驱动力（strongly self-motivated），注重品德修养，敢于尝试和挑战。</b><br>
-<b>欢迎有志于科研的同学发邮件（必要材料: 附成绩单、1页纸简历，以及4、6级成绩证书）至 ftong@seu.edu.cn咨询。</b><br>
-<font color="red">2024年8月: 南京、无锡均有硕士名额（2025.9月入学），欢迎联系！</font>
-</font>
-
-## 课程信息
-
-<font size="3">
-《计算机组成原理》，本科生<br>
-2019-2020, 2020-2021, 2021-2022, 2022-2023，2023-2024, 2024-2025学年秋季学期<br>
+<b>1.  大模型的可信数据管理</b> <br>
+<b>2.  区块链与智能系统监管</b>（招1名2026年入学的博士生）<br>
+<b>3.  信创生态系统构建和优化</b><br>
+<font color="red">【招收优秀博士、硕士研究生、优秀本科实习生，可推荐至北京理工大学，南京理工大学，陕西科技大学参与科研工作】:</font><br>
+<b>为人踏实努力，上进心强，有强烈的自我驱动力，注重品德修养，敢于尝试和挑战。</b><br>
+<b>欢迎有志于科研的同学发邮件（必要材料: 附成绩单、简历，以及4、6级成绩证书）至 221612075@sust.edu.cn咨询。</b><br>
 </font>
 
 
