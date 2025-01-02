@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "刘殿栋，博士生"
   avatar           : "profile.JPG"
-  bio              : "江苏省泛在网络安全工程研究中心 副主任&nbsp;&nbsp;&nbsp;&nbsp;</p>至善青年学者"
+  bio              : #"江苏省泛在网络安全工程研究中心 副主任&nbsp;&nbsp;&nbsp;&nbsp;</p>至善青年学者"
   location         : "中国西安,未央区武德路116号"
   employer         : "电子信息与人工智能学院"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
