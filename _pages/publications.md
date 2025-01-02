@@ -16,7 +16,8 @@ author_profile: true
 - Han Y, **Liu D**, Sun L, et al. When ChatGPT Meets Ceramics: How Far are We?.EI（一审中）.
 - **Liu D**, Sun L, Han Y, et al. A Research on Competitive Evaluation Based on Genetic Algorithm.EI（已录用）.
 - Sun L, **Liu D**, Li Y, et al. A Blockchain-based E-healthcare System with Provenance Awareness[J]. IEEE Access, 2024.
-- Sun L, Zhou D, **Liu D***, et al. BPDAC: A Blockchain Based and Provenance Enabled Dynamic Access Control Scheme[J]. IEEE Access, 2023.
+- Sun L, Zhou D, **Liu D**, et al. BPDAC: A Blockchain Based and Provenance Enabled Dynamic Access Control Scheme[J]. IEEE Access, 2023.
+
 
 ## 中国专利
 -[1] 孙连山,**刘殿栋**,周丹妮,等.基于区块链的电子病历自动溯源和后审计的快速授权方法[P].陕西省:CN202311464009.3,2024-01-09.<br>
