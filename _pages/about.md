@@ -13,8 +13,8 @@ redirect_from:
 ## 教育/工作履历
 <font size="3">
 
-<b>博士在读</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授</b></a><br>
-<b>Ph.D.</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
+<b>硕士</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授</b></a><br>
+<b>MSc</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
 <b>科研助理</b>，南京理工大学，经济管理学院，导师：<a href="https://teacher.njust.edu.cn/jjgl/zp/list.htm" target="_blank"><b>朱鹏教授</b></a><br>
 <b>Research Assistant</b> at School of Economics and Management, Nanjing University of Science & Technology<br>
 </font>
