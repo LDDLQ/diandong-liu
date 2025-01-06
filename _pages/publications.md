@@ -13,12 +13,12 @@ author_profile: true
 ## SCI/EI论文
 - **Liu D**, Yong Y, Sun L, et al. CeramicAesGPT: A Multimodal Foundation Model for Aesthetic Perception of Ceramic Images[J].IEEE Transactions on Image Processing, 2025(一审中).
 - Yong Y, **Liu D**, Sun L, et al. ChatCAS: A Multimodal Ceramic Multi-Agent Studio for Consultation, Image Analysis and Generation[J].IEEE Transactions on Image Processing, 2025(一审中).
-- Sun L, **Liu D**, Wang M, et al. Taming Unleashed Large Language Models with Blockchain for Massive Personalized Reliable Healthcare [J].IEEE Journal of Biomedical and Health Informatics, 2025(已录用).
 - Yi Ren, HZ Zhang, W Li, **D Liu**, et al. MMCS: A Multimodal Medical Diagnosis System Integrating Image Analysis and Knowledge-based Departmental Consultation[J].IEEE Journal of Biomedical and Health Informatics, 2025(一审中).
-- Han Y, **Liu D**, Sun L, et al. When ChatGPT Meets Ceramics: How Far are We?.EI（一审中）.
+- Sun L, **Liu D**, Wang M, et al. Taming Unleashed Large Language Models with Blockchain for Massive Personalized Reliable Healthcare [J].IEEE Journal of Biomedical and Health Informatics(IF:7.7,顶刊), 2025(已录用).
+- Han Y, **Liu D**, Sun L, et al. When ChatGPT Meets Ceramics: How Far are We?.EI（已录用）.
 - **Liu D**, Sun L, Han Y, et al. A Research on Competitive Evaluation Based on Genetic Algorithm.EI（已录用）.
-- Sun L, **Liu D**, Li Y, et al. A Blockchain-based E-healthcare System with Provenance Awareness[J]. IEEE Access, 2024.
-- Sun L, Zhou D, **Liu D**, et al. BPDAC: A Blockchain Based and Provenance Enabled Dynamic Access Control Scheme[J]. IEEE Access, 2023.
+- Sun L, **Liu D**, Li Y, et al. A Blockchain-based E-healthcare System with Provenance Awareness[J]. IEEE Access(IF:3.4), 2024.
+- Sun L, Zhou D, **Liu D**, et al. BPDAC: A Blockchain Based and Provenance Enabled Dynamic Access Control Scheme[J]. IEEE Access(IF:3.4), 2023.
 
 
 ## 中国专利
