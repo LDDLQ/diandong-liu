@@ -5,7 +5,7 @@ permalink: /News/
 author_profile: true
 ---
 2024-01-09 团队成员刘殿栋，韩咏颐，任意与北京理工大学设计与艺术学院合作工作在EIEDP 2025发表论文[When ChatGPT Meets Ceramics: How Far Are We?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5088915)<br>
-2024-01-06 团队成员刘殿栋，韩咏颐，任意在IEEE Journal of Biomedical and Health Informatics(IF:7.7，顶刊)发表论文Taming Unleashed Large Language Models with Blockchain for Massive Personalized Reliable Healthcare<br>
+2024-01-06 团队成员刘殿栋，韩咏颐，任意在IEEE Journal of Biomedical and Health Informatics(IF:7.7，顶刊)发表论文[Taming Unleashed Large Language Models with Blockchain for Massive Personalized Reliable Healthcare](https://ieeexplore.ieee.org/document/10849673)<br>
 2024-12-31 团队成员刘殿栋，任意，韩咏颐与南京理工大学经济管理学院合作工作用于审计区块链智能合约BUG的专属智能体正式发布<br>
 2024-12-11 团队成员刘殿栋，韩咏颐，任意与北京理工大学设计与艺术学院合作工作用于解决陶瓷领域美学评价任务的[CeramicAesGPT](http://10.31.7.86/?p=25)正式发布<br>
 2024-12-05 孙连山教授赴西安科大讯飞股份有限公司丝路总部参观交流<br>
