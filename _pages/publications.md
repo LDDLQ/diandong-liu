@@ -10,7 +10,7 @@ author_profile: true
 **Zhe Zhou\***, Xiaoyu Cheng, Yang Sun, Fang Jiang, Fei Tong <img src="/images/letter.png" alt="letter" title="letter">, Ruilin Wang<br>
  IEEE 21th TrustCom(**CCF-C**), 2022. -->
 
-## SCI/EI论文
+## 代表性发表/在审稿论文
 - **Liu D**, Yong Y, Sun L, et al. CeramicAesGPT: A Multimodal Foundation Model for Aesthetic Perception of Ceramic Images[J].IEEE Transactions on Image Processing, 2025(一审中).
 - Yong Y, **Liu D**, Sun L, et al. ChatCAS: A Multimodal Ceramic Multi-Agent Studio for Consultation, Image Analysis and Generation[J].IEEE Transactions on Image Processing, 2025(一审中).
 - Yi Ren, HZ Zhang, W Li, **D Liu**, et al. MMCS: A Multimodal Medical Diagnosis System Integrating Image Analysis and Knowledge-based Departmental Consultation[J].IEEE Journal of Biomedical and Health Informatics, 2025(一审中).
