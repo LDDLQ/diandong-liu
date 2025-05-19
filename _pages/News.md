@@ -4,6 +4,7 @@ title: "最新消息"
 permalink: /News/
 author_profile: true
 ---
+2024-03-05 团队成员刘殿栋，韩咏颐与中国林科院林产化学工业研究所房桂干院士开展大模型在轻工领域应用研究<br>
 2024-01-09 团队成员刘殿栋，韩咏颐，任意与北京理工大学设计与艺术学院合作工作在EIEDP 2025发表论文[When ChatGPT Meets Ceramics: How Far Are We?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5088915)<br>
 2024-01-06 团队成员刘殿栋，韩咏颐，任意在IEEE Journal of Biomedical and Health Informatics(IF:7.7，顶刊)发表论文[Taming Unleashed Large Language Models with Blockchain for Massive Personalized Reliable Healthcare](https://ieeexplore.ieee.org/document/10849673)<br>
 2024-12-31 团队成员刘殿栋，任意，韩咏颐与西安电子科技大学杭州研究院合作工作用于审计区块链智能合约BUG的专属智能体正式发布<br>
