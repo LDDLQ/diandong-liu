@@ -14,10 +14,11 @@ redirect_from:
 <font size="3">
 <b>博士</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授</b></a><br>
 <b>PhD</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
-<b>硕士</b>，陕西科技大学，电子信息与人工智能学院，导师：<a href="https://dianzhi.www.sust.edu.cn/info/4667/37842.htm" target="_blank"><b>孙连山教授</b></a><br>
-<b>MSc</b> at School of Electronic Information and Artificial Intelligence, Shaanxi University of Science & Technololgy<br>
+  <b>科研助理</b>，美国新泽西蒙莫斯大学，计算机科学与软件工程系，导师：<a href="https://www.monmouth.edu/directory/profiles/jiacun-wang" target="_blank"><b>王加存教授</b></a><br>
+<b>Research Assistant</b> Department of Computer Science and Software Engineering, Monmouth University New Jersey<br>
 <b>科研助理</b>，南京理工大学，经济管理学院，导师：<a href="https://teacher.njust.edu.cn/jjgl/zp/list.htm" target="_blank"><b>朱鹏教授</b></a><br>
 <b>Research Assistant</b> at School of Economics and Management, Nanjing University of Science & Technology<br>
+
 </font>
 
 ## 研究领域
