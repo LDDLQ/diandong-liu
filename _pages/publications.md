@@ -11,7 +11,7 @@ author_profile: true
  IEEE 21th TrustCom(**CCF-C**), 2022. -->
 
 
-## 代表性发表/在审稿论文
+## 发表SCI/EI 8篇，其中一作或通讯作5篇
 <img width="1894" height="1487" alt="image" src="https://github.com/user-attachments/assets/73997289-67b9-4a15-b915-6a29bf02ce3b" />
 
 
