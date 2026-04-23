@@ -84,11 +84,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 8px;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+    padding: 0;   // 可选：去掉外边留白
+    border: 0;    // 可选：去掉外边框
     }
   }
 }
