@@ -87,8 +87,8 @@
     border-radius: 0;
 
     @include breakpoint($large) {
-    padding: 0;   // 可选：去掉外边留白
-    border: 0;    // 可选：去掉外边框
+    padding: 0;   
+    border: 0;    
     }
   }
 }
